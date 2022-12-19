@@ -1,0 +1,38 @@
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\bin\Debug\Quiz.exe
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\bin\Debug\Quiz.pdb
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\bin\Debug\Quiz.xml
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.Resources.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.vbproj.GenerateResource.Cache
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.exe
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.xml
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.pdb
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.iniciar.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.regras.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.sobre.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.q1.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.q2.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.q3.resources
+C:\Users\lucas\AppData\Local\Temporary Projects\Quiz\obj\Debug\Quiz.q4.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\bin\Debug\Quiz.xml
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.iniciar.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.Resources.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q1.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q2.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q3.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q4.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q5.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.regras.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.sobre.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.vbproj.GenerateResource.Cache
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q6.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q7.resources
+C:\Users\lucas\OneDrive\Documentos\Visual Studio 2012\Projects\Quiz\Quiz\obj\Debug\Quiz.q8.resources
